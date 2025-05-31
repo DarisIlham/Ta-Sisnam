@@ -1,4 +1,4 @@
-Tugas Akhir Sistem Tertanam 2025 Kelompok 5 🌿💧
+Tugas Akhir Sistem Tertanam 2025 Kelompok 4 🌿💧
 
 Pendahuluan
 Repositori ini berisi dokumentasi dan kode sumber untuk alat pendeteksi kelembapan udara berbasis IoT yang dirancang khusus untuk aplikasi greenhouse 🏠. Proyek ini merupakan bagian dari tugas akhir mata kuliah Sistem Tertanam tahun 2025.
@@ -29,6 +29,6 @@ Secara garis besar, arsitektur sistem ini meliputi:
 Protokol MQTT yang ringan dan efisien memastikan performa yang handal, bahkan dengan keterbatasan sumber daya perangkat IoT. 💪
 ________________________________________
 Kontribusi
-Proyek ini dikembangkan oleh Kelompok 5 sebagai bagian dari Tugas Akhir Sistem Tertanam 2025. 🎓
+Proyek ini dikembangkan oleh Kelompok 4 sebagai bagian dari Tugas Akhir Sistem Tertanam 2025. 🎓
 ________________________________________
 
